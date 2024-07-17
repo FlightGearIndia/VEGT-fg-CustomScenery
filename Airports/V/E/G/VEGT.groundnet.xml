@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groundnet>
+	<version>1</version>
+	<parkingList>
+		<Parking index="0" type="gate" name="2" lat="N26 6.28532100" lon="E91 35.21960280" heading="116" radius="18"/>
+		<Parking index="1" type="gate" name="1" lat="N26 6.26527920" lon="E91 35.20978620" heading="112" radius="18"/>
+		<Parking index="2" type="gate" name="3" lat="N26 6.30582840" lon="E91 35.23069380" heading="112" radius="18"/>
+		<Parking index="3" type="tie_down" name="Cargo 8" lat="N26 6.42413700" lon="E91 35.28562200" heading="112" radius="18"/>
+		<Parking index="4" type="tie_down" name="Cargo 9" lat="N26 6.44808840" lon="E91 35.29689660" heading="112" radius="18"/>
+		<Parking index="5" type="gate" name="7" lat="N26 6.40289520" lon="E91 35.27558520" heading="113" radius="18"/>
+		<Parking index="6" type="gate" name="6" lat="N26 6.38114400" lon="E91 35.26576020" heading="113" radius="18"/>
+		<Parking index="7" type="gate" name="5" lat="N26 6.35708820" lon="E91 35.25547800" heading="112" radius="18"/>
+		<Parking index="8" type="gate" name="4" lat="N26 6.33690720" lon="E91 35.24585700" heading="112" radius="18"/>
+		<Parking index="9" type="tie_down" name="28" lat="N26 7.30441380" lon="E91 35.80357200" heading="293" radius="14"/>
+		<Parking index="10" type="tie_down" name="21" lat="N26 7.25283060" lon="E91 35.73613680" heading="112" radius="7.5"/>
+		<Parking index="11" type="tie_down" name="22" lat="N26 7.27449660" lon="E91 35.74696200" heading="112" radius="7.5"/>
+		<Parking index="12" type="tie_down" name="23" lat="N26 7.29710700" lon="E91 35.75846340" heading="112" radius="7.5"/>
+		<Parking index="13" type="tie_down" name="24" lat="N26 7.31701860" lon="E91 35.76831120" heading="112" radius="7.5"/>
+		<Parking index="14" type="tie_down" name="25" lat="N26 7.33706460" lon="E91 35.77763220" heading="112" radius="7.5"/>
+		<Parking index="15" type="tie_down" name="27" lat="N26 7.32376080" lon="E91 35.81632080" heading="292" radius="14"/>
+		<Parking index="16" type="tie_down" name="29" lat="N26 7.28398920" lon="E91 35.79421320" heading="292" radius="14"/>
+		<Parking index="17" type="tie_down" name="30" lat="N26 7.26139380" lon="E91 35.78428500" heading="291" radius="14"/>
+		<Parking index="18" type="tie_down" name="31" lat="N26 7.23832980" lon="E91 35.77741140" heading="-67" radius="14"/>
+		<Parking index="19" type="tie_down" name="GA Parking" lat="N26 7.14847740" lon="E91 35.77695180" heading="114" radius="14"/>
+		<Parking index="20" type="tie_down" name="GA Parking" lat="N26 7.12255920" lon="E91 35.76306060" heading="114" radius="14"/>
+		<Parking index="21" type="tie_down" name="Military Parking" lat="N26 6.65322540" lon="E91 34.99247040" heading="-73" radius="14"/>
+		<Parking index="22" type="tie_down" name="Military Parking" lat="N26 6.63351660" lon="E91 34.98765960" heading="-73" radius="14"/>
+		<Parking index="23" type="tie_down" name="Military Heli Parking" lat="N26 6.07681920" lon="E91 34.74802740" heading="2" radius="14"/>
+		<Parking index="24" type="tie_down" name="Military Heli Parking" lat="N26 6.07220700" lon="E91 34.76857080" heading="-23" radius="14"/>
+		<Parking index="25" type="tie_down" name="Military Heli Parking" lat="N26 6.08958720" lon="E91 34.77771540" heading="-77" radius="14"/>
+		<Parking index="26" type="tie_down" name="Military Heli Parking" lat="N26 6.10685460" lon="E91 34.78241280" heading="-77" radius="14"/>
+		<Parking index="27" type="tie_down" name="Military Heli Parking" lat="N26 6.15331380" lon="E91 34.77051240" heading="-166" radius="14"/>
+		<Parking index="28" type="tie_down" name="Military Heli Parking" lat="N26 6.14830800" lon="E91 34.79193300" heading="-124" radius="14"/>
+		<Parking index="29" type="tie_down" name="Military Heli Parking" lat="N26 6.12378480" lon="E91 34.78773660" heading="-77" radius="14"/>
+		<Parking index="30" type="tie_down" name="Military Heli Parking" lat="N26 6.58972560" lon="E91 34.97259660" heading="1" radius="14"/>
+		<Parking index="31" type="tie_down" name="Military Hanger" lat="N26 6.79202700" lon="E91 35.03399760" heading="175" radius="7.5"/>
+		<Parking index="32" type="tie_down" name="Military Hanger" lat="N26 6.74879940" lon="E91 35.08301940" heading="21" radius="7.5"/>
+		<Parking index="33" type="tie_down" name="Military Hanger" lat="N26 6.73921020" lon="E91 34.95879780" heading="110" radius="7.5"/>
+		<Parking index="34" type="tie_down" name="Military Hanger" lat="N26 6.67131660" lon="E91 34.92973920" heading="14" radius="7.5"/>
+		<Parking index="35" type="tie_down" name="Military Hanger" lat="N26 6.63154980" lon="E91 34.91854560" heading="195" radius="7.5"/>
+		<Parking index="36" type="tie_down" name="Military Hanger" lat="N26 6.55669980" lon="E91 34.89251760" heading="105" radius="7.5"/>
+		<Parking index="37" type="tie_down" name="Military Hanger" lat="N26 6.40889580" lon="E91 34.85655840" heading="29" radius="7.5"/>
+		<Parking index="38" type="tie_down" name="Military Hanger" lat="N26 5.94468000" lon="E91 34.70401620" heading="27" radius="7.5"/>
+		<Parking index="39" type="tie_down" name="Military Hanger" lat="N26 6.02886660" lon="E91 34.66903020" heading="110" radius="7.5"/>
+		<Parking index="40" type="tie_down" name="Military Hanger" lat="N26 6.10640220" lon="E91 34.69365600" heading="176" radius="7.5"/>
+		<Parking index="41" type="tie_down" name="Military Hanger" lat="N26 6.14649420" lon="E91 34.70560620" heading="40" radius="7.5"/>
+		<Parking index="42" type="tie_down" name="Military Hanger" lat="N26 6.22755360" lon="E91 34.73623560" heading="113" radius="7.5"/>
+		<Parking index="43" type="tie_down" name="Military Hanger" lat="N26 6.23669340" lon="E91 34.79547780" heading="-31" radius="7.5"/>
+		<Parking index="44" type="tie_down" name="Military Hanger" lat="N26 6.37108740" lon="E91 34.83588540" heading="-158" radius="7.5"/>
+		<Parking index="45" type="tie_down" name="Military Parking" lat="N26 6.32219940" lon="E91 34.88004480" heading="-66" radius="14"/>
+		<Parking index="46" type="tie_down" name="Military Parking" lat="N26 6.33344880" lon="E91 34.88917920" heading="-67" radius="14"/>
+		<Parking index="47" type="tie_down" name="Military Parking" lat="N26 6.34540080" lon="E91 34.89706080" heading="-65" radius="14"/>
+		<Parking index="48" type="tie_down" name="Military Parking" lat="N26 6.36700860" lon="E91 34.90838760" heading="-65" radius="14"/>
+		<Parking index="49" type="tie_down" name="Military Parking" lat="N26 6.38702280" lon="E91 34.91579940" heading="-67" radius="14"/>
+		<Parking index="50" type="tie_down" name="Military Parking" lat="N26 6.40703700" lon="E91 34.92289800" heading="-67" radius="14"/>
+		<Parking index="51" type="tie_down" name="Military Parking" lat="N26 6.61515780" lon="E91 34.97999280" heading="-73" radius="14"/>
+	</parkingList>
+</groundnet>
